@@ -1,2 +1,0 @@
-
-print("Henrik R. Christensen")
